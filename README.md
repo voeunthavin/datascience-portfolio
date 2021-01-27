@@ -48,8 +48,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Mid Semester Exam
   - [Mid Semester Exam Paper](https://drive.google.com/file/d/1XkJ4aBsOX-XbTRq8D3I2iTxDFL-ClHAX/view)
   
-    Answer: [Voeun_Thavin_Midterm.Rmd](https://drive.google.com/file/d/1r4o0qAuNqbLx-YoDgQY79AnuwspwwdNf/view)
+    Answer: [Voeun_Thavin_Midterm.Rmd](https://drive.google.com/file/d/1r4o0qAuNqbLx-YoDgQY79AnuwspwwdNf/view). Dataset [Pollster Rating](https://github.com/fivethirtyeight/data/blob/master/pollster-ratings/pollster-ratings.csv).
     
-    _Note: In order to see and run the R program, please go to [R Cloud Studio](https://rstudio.cloud) and import the above file. Also, for some datasets, you can find it in this repos_
+    _Note: In order to see and run the R program, please go to [R Cloud Studio](https://rstudio.cloud) and import the above file. Also, for some datasets, you can find it in this repos._
     
     This exam covers three units from basic R to data visulization and text mining which involves lots of libraries and graphs.
